@@ -1,0 +1,5 @@
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula3\obj\Debug\net6.0\Aula3.csproj.AssemblyReference.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula3\obj\Debug\net6.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfoInputs.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfo.cs
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula3\obj\Debug\net6.0\Aula3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.csproj.AssemblyReference.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.AssemblyInfoInputs.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.AssemblyInfo.cs
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.csproj.CoreCompileInputs.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\bin\Debug\net6.0\Aula_4.exe
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\bin\Debug\net6.0\Aula_4.deps.json
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\bin\Debug\net6.0\Aula_4.runtimeconfig.json
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\bin\Debug\net6.0\Aula_4.dll
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\bin\Debug\net6.0\Aula_4.pdb
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.dll
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\refint\Aula_4.dll
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.pdb
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\Aula_4.genruntimeconfig.cache
+D:\Deivid Oliveira\T . I\GITHUB\Aula quinta-Tecnicas de Programação\Aula_4\obj\Debug\net6.0\ref\Aula_4.dll
