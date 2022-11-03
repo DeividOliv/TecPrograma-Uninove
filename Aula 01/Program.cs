@@ -1,8 +1,8 @@
 ﻿// Variável = espaço reservado na memória do computador.
-//writeline significa pula linha
+// writeline significa pula linha
  
 // int = inteiro
-/*short a = 0215;
+/* short a = 0215;
  
 // double ou decimal = real
 double salario = 1000.50;
@@ -21,7 +21,7 @@ Console.WriteLine("a = " + a);
 Console.WriteLine("Salario = " + salario);
 Console.WriteLine("Nome = " + nome);
 Console.WriteLine("Estamos em aula? " + aula);
-*/
+ */
  
 //Leia duas variáveis do tipo inteiro, realize a soma e exiba o resultado na tela.
 int a, b, soma;
